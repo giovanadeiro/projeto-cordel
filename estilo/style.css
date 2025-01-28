@@ -90,7 +90,7 @@ section.imagem > p {
 
 section#img01 {
     background-image: url(../imagens/cordel.jpg);
-    background-position: center center;
+    background-position: left center;
     background-size: cover;
     background-repeat: no-repeat;
 }
